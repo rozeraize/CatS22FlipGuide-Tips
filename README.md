@@ -54,9 +54,10 @@ you can speed up or remove animations 2 ways:
 [TT9](https://f-droid.org/en/packages/io.github.sspanak.tt9/)
 # Video Games for keypad and small screen
 Before smartphones, developers would make video games for flip phones  with keypads in the Java Programming language.
-[The JL-Mod App](https://github.com/woesss/JL-Mod) and [the J2ME Loader app](https://github.com/nikita36078/J2ME-Loader) allow you to run those old games on your flip.
+[The JL-Mod App](https://github.com/woesss/JL-Mod) and [the J2ME Loader app](https://github.com/nikita36078/J2ME-Loader) allow you to run those old games on your flip phone.
 [This](https://mobile.phoneky.com/games/?q=nokia) is a website that lets you download those old java games as '.jar' files and copy them onto your flip phone which you can then install with either the JL-mod app or the J2ME loader app.
 # Keymapping
 Download [V2.8.3](https://github.com/keymapperorg/KeyMapper/releases/tag/v2.8.3) of the key mapper onto your phone.
+Download [this zip file]() onto your phone
 
 
