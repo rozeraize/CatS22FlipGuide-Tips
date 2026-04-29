@@ -33,4 +33,30 @@ you can speed up or remove animations 2 ways:
 16. Download [this magisk module](https://github.com/Xenoxis/magisk-disable-logd/releases/tag/v1.0.1) and copy it and install it onto your phone for a slight performance boost.
 17. Download [this magisk module](https://github.com/symbuzzer/Volte-Wifi-Calling-Enabler/releases) and install it onto your phone to enable volte wifi calling.
 18. Download and install [this magisk modules](https://github.com/KOWX712/PlayIntegrityFix/releases).
+19. Reboot phone
+# Installing microG services and android auto. (Note: this only works if you already did the 'Debloating, Degoogling, Rooting' section)
+1. download and install [this magisk module](https://github.com/LSPosed/LSPosed/releases) (Note: Download the zygisk release, not the riru release).
+2. Download and install [this magisk module](https://github.com/gloeyisk/universal-gms-doze/releases).
+3. Reboot phone
+4. Download [this apk](https://github.com/whew-inc/FakeGApps/releases).
+5. copy that apk onto your phone and install it.
+6. and when done click done and click the notification from LSPosed to enable it.
+7. Reboot phone.
+8. Now to install MicroG, but as a system app, so we start with version 0.3.4 downloading and installing these apks [microG Services 0.3.4.240913](https://www.apkmirror.com/apk/microg-team/microg-services-core/microg-services-core-0-3-4-240913-release/microg-services-0-3-4-240913-android-apk-download/) [microG Companion 0.3.4.40226 (Android 4.4+)](https://www.apkmirror.com/apk/microg-team/fakestore/fakestore-0-3-4-40226-release/microg-companion-0-3-4-40226-android-apk-download/).
+9. Now you need [microG Installer Revived](https://github.com/nift4/microg_installer_revived/releases) to systemize them, we used 0.3.4 because it is compatible with this module. It will also install MicroG Framework Proxy.
+10. Reboot Phone.
+11. Install this Magisk module [Android Auto 4 MicroG](https://github.com/sn-00-x/aa4mg/releases) Select no for Gapps Stub.
+12. Reboot and install [Maps.apk](https://github.com/sn-00-x/aa4mg/blob/master/system/product/app/Maps/Maps.apk).
+13. download and install [F-Droid Basic apk](https://f-droid.org/en/packages/org.fdroid.basic/).
+14. go into F-Droid basic settings>repositories> and add [this mocroG F-droid repository](https://microg.org/fdroid/repo/?fingerprint=9BD06727E62796C0130EB6DAB39B73157451582CBD138E86C468ACC395D14165)
+15. Update the microG apps and services within F-Droid Basic.
+# Best Cat S22 Keypad 
+[TT9](https://f-droid.org/en/packages/io.github.sspanak.tt9/)
+# Video Games for keypad and small screen
+Before smartphones, developers would make video games for flip phones  with keypads in the Java Programming language.
+[The JL-Mod App](https://github.com/woesss/JL-Mod) and [the J2ME Loader app](https://github.com/nikita36078/J2ME-Loader) allow you to run those old games on your flip.
+[This](https://mobile.phoneky.com/games/?q=nokia) is a website that lets you download those old java games as '.jar' files and copy them onto your flip phone which you can then install with either the JL-mod app or the J2ME loader app.
+# Keymapping
+Download [V2.8.3](https://github.com/keymapperorg/KeyMapper/releases/tag/v2.8.3) of the key mapper onto your phone.
+
 
