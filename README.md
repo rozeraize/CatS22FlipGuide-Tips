@@ -57,8 +57,11 @@ Before smartphones, developers would make video games for flip phones  with keyp
 [The JL-Mod App](https://github.com/woesss/JL-Mod) and [the J2ME Loader app](https://github.com/nikita36078/J2ME-Loader) allow you to run those old games on your flip phone.
 [This](https://mobile.phoneky.com/games/?q=nokia) is a website that lets you download those old java games as '.jar' files and copy them onto your flip phone which you can then install with either the JL-mod app or the J2ME loader app.
 # Keymapping
-Download [V2.8.3](https://github.com/keymapperorg/KeyMapper/releases/tag/v2.8.3) of the key mapper onto your phone and go through the key mapper setup.
-Download [this zip file](https://github.com/rozeraize/CatS22FlipGuide-Tips/blob/main/keymaps/mappings_20260429-161013.zip) onto your phone. 
-In the keymapper app open the side panel click the 'restore' button'. Navigate to the folder that you saved the zip file to and click on the zip file.
+1. Download [V2.8.3](https://github.com/keymapperorg/KeyMapper/releases/tag/v2.8.3) of the key mapper onto your phone and go through the key mapper setup.
+2. Go to the keymapper settings within the keymapper app and enable root access for keymapper.
+3. Download [this zip file](https://github.com/rozeraize/CatS22FlipGuide-Tips/blob/main/keymaps/mappings_20260429-161013.zip) onto your phone. 
+4. In the keymapper app open the side panel click the 'restore' button'. Navigate to the folder that you saved the zip file to and click on the zip file.
+5. Now if you double-press the speaker button it opens the app menu in whatever app your in.
+6. Now go and make whatever keymaps you want (Note: if you wanna map the orange button on the side of the phone go to 'Settings>Programmable Key>' and enable PTT Mode.)
 
 
