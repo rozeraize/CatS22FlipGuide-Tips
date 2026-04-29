@@ -25,5 +25,5 @@ you can speed up or remove animations 2 ways:
 7. After magisk rebooted your phone, go back into the magisk app and go to the magisk settings.
 8. Within the magisk settings press 'Systemless host' and enable zygisk and press 'enforce deny list'.
 9. Exit the magisk settings and reboot your phone.
-10. If you want google messaging app then download [this]() zip file. If you want the plain android messaging app download [this]() zip file
+10. If you want google messaging app then download [this](https://github.com/rozeraize/CatS22FlipGuide-Tips/blob/main/degoogled-module/google-messaging.zip) zip file. If you want the plain android messaging app download [this]() zip file
 11. 
