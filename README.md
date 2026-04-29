@@ -5,3 +5,17 @@ The keypad starts to have sensativity issues after extended use.
 The issues can either be fixed by
 1. downloading and installing [this apk](https://github.com/Qar-Kain/CatFix/releases/tag/v1.0.20032025) once your Cat S22 is rooted. (PS: choose the apk without bluetooth)
 2. Or by following [this guide](https://www.ifixit.com/Guide/CAT+S22+Flip+Keypad+Replacement/199702)
+#Quicker animations and smoother expierence
+I find that removing animations speeds the phone up alot.
+you can speed up or remove animations 2 ways:
+1. To fully remove animations navigate to 'Settings>Accessability>Remove Animations' and enable 'Remove Animations'
+2. If you still want animations but you want them to be faster then navigate to 'Settings>System>Developer Options' and there will be 3 diffrent animation options; 'Window animation scale', 'Transition animation scale', and 'Animator duration scale'. Each of those 3 options are set to 'animation scale 1x' by default. change the scale to .5x for each of the 3 options individually and try them out till you find which animation speed you like best for each.
+# Device Navigation with keypad
+1. To open app drawer on home screen with keypad double-press the home button.
+2. To open quick-settings with keypad press and hold the recent apps button.
+3. To speed dial on home screen press and hold any the numbers 1-9 on homescreen. It will ask you to assign a phone number for the key you pressed, and click yes and then assign a phone number. (key 1 is already assigned to voicemail)
+4. To remove an apps from recents in the recent apps dailog press the 'UP' button and then press the C/Clear button to remove the app from recents.
+# Debloating & Rooting. 
+1. Follow [this guide](https://xdaforums.com/t/tut-root-how-to-root-cat-s22-flip-on-version-30.4626971/) to root your phone.
+2. Afterwards, follow [this guide](https://forums.jtechforums.org/t/kitty-rom-small-cat-super-debloated-with-android-auto/) to install a custom debloated rom.
+3. 
