@@ -18,4 +18,12 @@ you can speed up or remove animations 2 ways:
 # Debloating & Rooting. 
 1. Follow [this guide](https://xdaforums.com/t/tut-root-how-to-root-cat-s22-flip-on-version-30.4626971/) to root your phone.
 2. Afterwards, follow [this guide](https://forums.jtechforums.org/t/kitty-rom-small-cat-super-debloated-with-android-auto/) to install a custom debloated rom.
-3. 
+3. Once you installed the rom, setup the phone WITHOUT CONNECTING TO THE INTERNET.
+4. Download the 'Magisk-V30.7.apk' from [here](https://github.com/topjohnwu/Magisk/releases/tag/v30.7).
+5. Copy the apk from your computer onto your phone and install it.
+6. Open the Magisk app and it will reboot your phone.
+7. After magisk rebooted your phone, go back into the magisk app and go to the magisk settings.
+8. Within the magisk settings press 'Systemless host' and enable zygisk and press 'enforce deny list'.
+9. Exit the magisk settings and reboot your phone.
+10. If you want google messaging app then download [this]() zip file. If you want the plain android messaging app download [this]() zip file
+11. 
