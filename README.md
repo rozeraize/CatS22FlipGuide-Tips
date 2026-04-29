@@ -63,5 +63,7 @@ Before smartphones, developers would make video games for flip phones  with keyp
 4. In the keymapper app open the side panel click the 'restore' button'. Navigate to the folder that you saved the zip file to and click on the zip file.
 5. Now if you double-press the speaker button it opens the app menu in whatever app your in.
 6. Now go and make whatever keymaps you want (Note: if you wanna map the orange button on the side of the phone go to 'Settings>Programmable Key>' and enable PTT Mode.)
+# APPS
+
 
 
