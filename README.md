@@ -63,9 +63,11 @@ Before smartphones, developers would make video games for flip phones  with keyp
 4. In the keymapper app open the side panel click the 'restore' button'. Navigate to the folder that you saved the zip file to and click on the zip file.
 5. Now if you double-press the speaker button it opens the app menu in whatever app your in.
 6. Now go and make whatever keymaps you want (Note: if you wanna map the orange button on the side of the phone go to 'Settings>Programmable Key>' and enable PTT Mode.)
-# APPS
-[Here](https://forums.jtechforums.org/t/uploaded-apps-thread/) is a forum thread for apps that will work for flip phones.
-[Here]() is anather forum thread for apps that will work for flip phones.
+# Apps
+1. Podcast App: [PodLP]()
+# Forums and resources for flip phone apps
+1. [Here](https://forums.jtechforums.org/t/uploaded-apps-thread/) is a forum thread for apps that will work for flip phones.
+2. [Here](https://forums.apps4flip.com/d/53-uploaded-apps) is anather forum thread for apps that will work for flip phones.
 
 
 
