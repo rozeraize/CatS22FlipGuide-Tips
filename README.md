@@ -59,6 +59,6 @@ Before smartphones, developers would make video games for flip phones  with keyp
 # Keymapping
 Download [V2.8.3](https://github.com/keymapperorg/KeyMapper/releases/tag/v2.8.3) of the key mapper onto your phone and go through the key mapper setup.
 Download [this zip file](https://github.com/rozeraize/CatS22FlipGuide-Tips/blob/main/keymaps/mappings_20260429-160018.zip) onto your phone. 
-In the keymapper app click the 'restore
+In the keymapper app open the side panel click the 'restore' button'. Navigate to the folder that you saved the zip file to and click on the zip file.
 
 
