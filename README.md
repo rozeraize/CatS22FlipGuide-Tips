@@ -57,7 +57,8 @@ Before smartphones, developers would make video games for flip phones  with keyp
 [The JL-Mod App](https://github.com/woesss/JL-Mod) and [the J2ME Loader app](https://github.com/nikita36078/J2ME-Loader) allow you to run those old games on your flip phone.
 [This](https://mobile.phoneky.com/games/?q=nokia) is a website that lets you download those old java games as '.jar' files and copy them onto your flip phone which you can then install with either the JL-mod app or the J2ME loader app.
 # Keymapping
-Download [V2.8.3](https://github.com/keymapperorg/KeyMapper/releases/tag/v2.8.3) of the key mapper onto your phone.
-Download [this zip file]() onto your phone
+Download [V2.8.3](https://github.com/keymapperorg/KeyMapper/releases/tag/v2.8.3) of the key mapper onto your phone and go through the key mapper setup.
+Download [this zip file](https://github.com/rozeraize/CatS22FlipGuide-Tips/blob/main/keymaps/mappings_20260429-160018.zip) onto your phone. 
+In the keymapper app click the 'restore
 
 
