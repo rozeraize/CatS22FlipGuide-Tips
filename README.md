@@ -45,7 +45,7 @@ you can speed up or remove animations 2 ways:
 8. Now to install MicroG, but as a system app, so we start with version 0.3.4 downloading and installing these apks [microG Services 0.3.4.240913](https://www.apkmirror.com/apk/microg-team/microg-services-core/microg-services-core-0-3-4-240913-release/microg-services-0-3-4-240913-android-apk-download/) [microG Companion 0.3.4.40226 (Android 4.4+)/](https://www.apkmirror.com/apk/microg-team/fakestore/fakestore-0-3-4-40226-release/microg-companion-0-3-4-40226-android-apk-download/).
 9. Now you need [microG Installer Revived](https://github.com/nift4/microg_installer_revived/releases) to systemize them, we used 0.3.4 because it is compatible with this module. It will also install MicroG Framework Proxy.
 10. Reboot Phone.
-11. Install this Magisk module [Android Auto 4 MicroG](https://github.com/sn-00-x/aa4mg/releases) Select no for Gapps Stub.
+11. Install this Magisk module [Android Auto 4 MicroG](https://github.com/sn-00-x/aa4mg/releases) Select no for Gapps Stub.Select no for Gapps Stub and if you installed the TTS Module select no for the TTS stub
 12. Reboot and install [Maps.apk](https://github.com/sn-00-x/aa4mg/blob/master/system/product/app/Maps/Maps.apk).
 13. download and install [F-Droid Basic apk](https://f-droid.org/en/packages/org.fdroid.basic/).
 14. go into F-Droid basic settings>repositories> and add [this mocroG F-droid repository](https://microg.org/fdroid/repo/?fingerprint=9BD06727E62796C0130EB6DAB39B73157451582CBD138E86C468ACC395D14165)
