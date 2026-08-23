@@ -69,6 +69,7 @@ Before smartphones, developers would make video games for flip phones  with keyp
 # Forums and resources for flip phone apps
 1. [Here](https://forums.jtechforums.org/t/uploaded-apps-thread/) is a forum thread for apps that will work for flip phones.
 2. [Here](https://forums.apps4flip.com/d/53-uploaded-apps) is anather forum thread for apps that will work for flip phones.
+3. [Here](https://jtechforums.org/apps) is yet another website with apps modified for flip phones, and it has a great forum with lots of other tips and apps and hacks for many flip phones including the Cat S22 flip.
 
 
 
